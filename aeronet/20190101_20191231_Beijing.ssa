@@ -1,0 +1,19 @@
+AERONET Version 3
+Beijing
+Version 3: Almucantar Level 2.0 Inversion
+The following data are automatically cloud cleared and quality assured with pre-field and post-field calibration applied.
+Monthly Averages,Contact: PI=Hong-Bin_Chen_and_Philippe_Goloub; PI Email=chb@mail.iap.ac.cn_and_philippe.goloub@univ-lille.fr 
+UNITS can be found at,,, https://aeronet.gsfc.nasa.gov/new_web/units.html
+Month,Single_Scattering_Albedo[440nm],Single_Scattering_Albedo[675nm],Single_Scattering_Albedo[870nm],Single_Scattering_Albedo[1020nm],NUM_DAYS[Single_Scattering_Albedo[440nm]],NUM_DAYS[Single_Scattering_Albedo[675nm]],NUM_DAYS[Single_Scattering_Albedo[870nm]],NUM_DAYS[Single_Scattering_Albedo[1020nm]],NUM_POINTS[Single_Scattering_Albedo[440nm]],NUM_POINTS[Single_Scattering_Albedo[675nm]],NUM_POINTS[Single_Scattering_Albedo[870nm]],NUM_POINTS[Single_Scattering_Albedo[1020nm]],Data_Quality_Level,Latitude(degrees),Longitude(degrees),Elevation(meters)
+2019-JAN,0.917727,0.920098,0.909476,0.898903,3,3,3,3,17,17,17,17,lev20, 39.976890, 116.381370, 92.000000
+2019-FEB,0.947160,0.951839,0.953917,0.953233,3,3,3,3,27,27,27,27,lev20, 39.976890, 116.381370, 92.000000
+2019-MAR,0.961329,0.960957,0.960632,0.958305,5,5,5,5,24,24,24,24,lev20, 39.976890, 116.381370, 92.000000
+2019-APR,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
+2019-MAY,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
+2019-JUN,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
+2019-JUL,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
+2019-AUG,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
+2019-SEP,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
+2019-OCT,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
+2019-NOV,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
+2019-DEC,-999.000000,-999.000000,-999.000000,-999.000000,0,0,0,0,0,0,0,0,lev20, 39.976890, 116.381370, 92.000000
